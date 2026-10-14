@@ -18,6 +18,7 @@
     {"key": "italkbbtv","name": "ITalkBB • 外","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/js/refs/heads/main/ITalkBBTV.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
     {"key": "OleLive","name": "欧乐影院 • 外","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/OleLive.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "洛雪TV","name": "洛雪 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/洛雪TV.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+    {"key": "九九TV","name": "九九 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/九九TV.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "华数","name": "华数 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/华数.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "华谊影视","name": "华谊 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "Didahd","name": "嘀嗒影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/Didahd.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
