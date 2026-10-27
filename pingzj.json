@@ -26,6 +26,7 @@
     {"key": "4K影视","name": "4K • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/4K影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "a123tv","name": "123 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/a123tv.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "卧龙影院","name": "卧龙 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/卧龙影院.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+    {"key": "影探4K","name": "影探 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/影探4K.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "龙江影院","name": "龙江 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/龙江影院.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
     {"key": "Didahd","name": "嘀嗒 • 影视","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/Didahd.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
     {"key": "TVB云播","name": "TVB云播","type": 3,"api": "https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/TVB云播.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
